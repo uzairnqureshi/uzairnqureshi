@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Frontend Web Development & User Experience Design<br>👯 I’m looking to collaborate on Web Development & Design<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about anything about UX Design<br>⚡ Fun fact (Maybe): Graphics Design isn't UI/UX Design :)
 
 
 ## 🌐 Socials:
